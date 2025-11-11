@@ -96,5 +96,3 @@ This will start both the **backend server** and the **React frontend** concurren
 `#SocketIO` `#MERN` `#RealtimeApp` `#DrawingApp` `#WebSockets` `#FullStack`
 
 ---
-
-Would you like me to add a **“Project Architecture” diagram section** next (showing how the Socket.IO flow works between client and server)?
